@@ -1,5 +1,5 @@
 .todo-card{
-    border: 1px solid crimson;
+    border: 2px solid crimson;
     display: flex;
     flex-direction: column;
     padding: 4px;
@@ -11,3 +11,8 @@
 .todo-completed {
     border-color: lime;
 }
+
+/* *{
+    background-color: beige;
+    color: orangered;
+} */
